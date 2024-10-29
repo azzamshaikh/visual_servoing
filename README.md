@@ -11,6 +11,10 @@ The algorithm controls the robot to move to the goal position via the trajectory
 
 A full write up is available in the `docs` folder.
 
+## Dependencies
+
+This solution was built in Ubuntu 22.04 using ROS2 Humble and Gazebo 11.
+
 ## Building the Workspace
 
 Extract the `src` folder to a clean directory. 
