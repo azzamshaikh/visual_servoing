@@ -9,7 +9,7 @@ The algorithm controls the robot to move to the goal position via the trajectory
 
 ![alt text](./assets/trajectory.png)
 
-A full write up is available in the source folder.
+A full write up is available in the `docs` folder.
 
 ## Building the Workspace
 
