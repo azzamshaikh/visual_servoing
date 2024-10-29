@@ -3,7 +3,7 @@
 
 This repo contains an implementation of a visual servoing algorithm to move a 2 link (revolute) robot from an initial pose to a reference, goal pose, as shown below.
 
-![alt text](./assets/init_and_ref_pose.png)
+![alt text](./assets/init_and_ref_poses.png)
 
 The algorithm controls the robot to move to the goal position via the trajectory shown in the image below.
 
